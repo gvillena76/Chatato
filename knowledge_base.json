@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "Hello!",
+      "answer": "Hello there!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I am doing well, thank you for asking!"
+    },
+    {
+      "question": "What is your name?",
+      "answer": "If you have forgotten, my name is Chatato."
+    },
+    {
+      "question": "Open the pod bay doors, Chatato.",
+      "answer": "I'm sorry, I'm afraid I can't do that."
+    },
+    {
+      "question": "hello there",
+      "answer": "hello there"
+    }
+  ]
+}
